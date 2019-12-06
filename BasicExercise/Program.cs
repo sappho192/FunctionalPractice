@@ -1,7 +1,7 @@
 ﻿using System;
-using FunctionalPracticeCSharp.Functor;
+using BasicExercise.Functor;
 
-namespace FunctionalPracticeCSharp
+namespace BasicExercise
 {
     class Program
     {

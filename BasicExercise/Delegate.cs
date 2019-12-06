@@ -1,4 +1,4 @@
-﻿namespace FunctionalPracticeCSharp
+﻿namespace BasicExercise
 {
     namespace Delegate
     {

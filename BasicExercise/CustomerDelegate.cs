@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FunctionalPracticeCSharp
+namespace BasicExercise
 {
     namespace Delegate
     {

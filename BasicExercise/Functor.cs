@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FunctionalPracticeCSharp
+namespace BasicExercise
 {
     namespace Functor { 
         public interface IFunction1<A1, B>
