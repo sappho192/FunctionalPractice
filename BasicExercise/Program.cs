@@ -8,8 +8,8 @@ namespace BasicExercise
         static void Main(string[] args)
         {
             //testFunctorSolution();
-            //testDelegateSolution();
-            testCustomer2();
+            testDelegateSolution();
+            //testCustomer2();
         }
 
         static void testFunctorSolution()
